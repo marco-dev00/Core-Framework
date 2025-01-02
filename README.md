@@ -2,7 +2,7 @@
 
 # Current Status
 
-Finished. If someone want to continue the releases schedule, go ahead.
+Working in a new stable version.
 
 # Credits
 
