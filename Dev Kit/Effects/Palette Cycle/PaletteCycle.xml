@@ -1,0 +1,60 @@
+<effect>
+	<name>Palette Cycle</name>
+	<author>TimmyTopHat, Edit by NaitorStudios</author>
+	<description>Change a palette to another, missing colors will not be changed. DX9 limited to 32 colors, DX11 limited to 256 colors. Both requires a texture with 256x2 pixels. It doesn't play well with Blend Coef on DX11 Premultiplied, use the parameter instead.</description>
+	
+	// Palettes
+	
+	<parameter>
+		<name>Palettes</name>
+		<code>Palettes</code>
+		<description>A palette with 256px of width, use each row for a new palette. First line will be the original colors followed by the replacements in the second line.</description>
+		<type>image</type>
+		<property>image</property>
+	</parameter>
+	
+	// LERPing
+	<parameter>
+		<name>Palette amount</name>
+		<code>nPal</code>
+		<description></description>
+		<type>int</type>
+		<value>1</value>
+		<property>slider</property>
+		<min>0</min>
+		<max>128</max>
+	</parameter>
+	
+	
+	<parameter>
+		<name>Mix A</name>
+		<code>lerpA</code>
+		<description></description>
+		<type>int</type>
+		<property>slider</property>
+		<value>0</value>
+		<min>0</min>
+		<max>128</max>
+	</parameter>
+	
+	<parameter>
+		<name>Mix B</name>
+		<code>lerpB</code>
+		<description></description>
+		<type>int</type>
+		<property>slider</property>
+		<value>1</value>
+		<min>0</min>
+		<max>128</max>
+	</parameter>
+	
+	
+	<parameter>
+		<name>Mix Value</name>
+		<code>lerpVal</code>
+		<description>Mixes the colors between Palette A and B.</description>
+		<type>float</type>
+		<property>edit</property>
+	</parameter>
+
+</effect>

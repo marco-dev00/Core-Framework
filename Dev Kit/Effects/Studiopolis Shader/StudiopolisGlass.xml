@@ -1,0 +1,70 @@
+<effect>
+<name>Sonic Mania Studiopolis Glass</name>
+<description>Effect inspired by Sonic Mania's Studiopolis stage.</description>
+<author>schrodinger, EX64</author>
+<company>Lizard King, DX11 port by NaitorStudios</company>
+<copyright>Free for commercial and not commercial, no attribution needed</copyright>
+<BackgroundTexture>1</BackgroundTexture>
+<parameter>
+<name>Texture</name>
+<description>Background Texture</description>
+<type>image</type>
+<property>image</property>
+</parameter>
+<parameter>
+		<name>Offset x</name>
+		<code>ox</code>
+		<description>Scroll offset</description>
+		<type>float</type>
+		<property>edit</property>
+                                <value>0.0</value>
+</parameter>
+<parameter>
+		<name>Offset y</name>
+		<code>oy</code>
+		<description>Scroll offset</description>
+		<type>float</type>
+		<property>edit</property>
+                                <value>0.0</value>
+</parameter>
+<parameter>
+		<name>X_coeff</name>
+		<code>Xcoeff</code>
+		<description>Scroll offset</description>
+		<type>float</type>
+		<property>edit</property>
+                                <value>0.0</value>
+</parameter>
+<parameter>
+		<name>Y_coeff</name>
+		<code>Ycoeff</code>
+		<description>Scroll offset</description>
+		<type>float</type>
+		<property>edit</property>
+                                <value>0.0</value>
+</parameter>
+<parameter>
+		<name>BGColor</name>
+		<code>RGB</code>
+		<description>Choose the color that the glass won't replace.</description>
+		<type>int_float4</type>
+		<property>color</property>
+                                <value>0.0</value>
+</parameter>
+<parameter>
+		<name>ShadowColor</name>
+		<code>SRGB</code>
+		<description>Choose the color that the glass will use to replace other colors.</description>
+		<type>int_float4</type>
+		<property>color</property>
+                                <value>0.0</value>
+</parameter>
+<parameter>
+		<name>OriginalShadowColor</name>
+		<code>ORGB</code>
+		<description>Set the glass back to it's original color setting.</description>
+		<type>int</type>
+		<property>checkbox</property>
+                                <value>0.0</value>
+</parameter>
+</effect>

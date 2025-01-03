@@ -1,0 +1,3 @@
+The *.rar file includes a playable demo, dev kit. You **NEED** to copy and paste all the features from DevKit into your Clickteam Fusion folder. **DON'T** ignore the shaders, **INSTALL** them instead.
+
+For more information, read here: https://github.com/nihil92/

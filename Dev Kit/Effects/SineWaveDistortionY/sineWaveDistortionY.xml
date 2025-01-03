@@ -1,0 +1,31 @@
+<effect>
+<name>Sine Wave Distortion Y</name>
+<description>Simple sine wave distortion effect that travels on Y axis.</description>
+<author>chrilley</author>
+<BackgroundTexture>1</BackgroundTexture>
+
+<parameter>
+<name>Frequency</name>
+<variable> fFreq</variable>
+<type>float</type>
+<value>0.0</value>
+<description>Frequency.</description>
+</parameter>
+
+<parameter>
+<name>Periods</name>
+<variable> fPeriods</variable>
+<type>float</type>
+<value>5.0</value>
+<description>Periods.</description>
+</parameter>
+
+<parameter>
+<name>Amplitude</name>
+<variable> fAmplitude</variable>
+<type>float</type>
+<value>0.05</value>
+<description>Amplitude.</description>
+</parameter>
+
+</effect>
