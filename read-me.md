@@ -6,12 +6,13 @@ Working in a new stable version.
 
 # Credits
 
-- **Project Leader** Nihil/niilisto.
-- **Programming:** Nihil/niilisto, Lighto, YohananDiamond, Chopp, Dark, Yonatankr and Ice.
+- **Project Leading:** Nihil
+- **Programming Leading:** Nihil
+- **Programming Assistance:** Lighto, YohananDiamond, Chopp, Dark, Yonatankr and Ice.
 - **Art:** Tyson Tay, joshyflip, Dolphman, Ainand, Yolkin, Tales499, Jeloboi, Grakai, Louplayer and Troopsushi.
-- **Level Design:** Ainand, Dark, Chopp and Nihil/niilisto.
+- **Level Design:** Ainand, Dark, Chopp and Nihil.
 - **Music:** DJ Vertstyle and Nuclear.
-- **Special Thanks:** EX64, HezMania, CesarFernandes, Phi, Uppernate and Israel.
+- **Special Thanks:** EX64, HezMania, CesarFernandes, PKR and Uppernate.
 
 # Requirements
 
@@ -32,13 +33,11 @@ You need to purchase a legit [Clickteam Fusion 2.5+](https://store.steampowered.
 
 # History
 
-Core began development in mid-2019 with the initial aim of correcting Sonic Worlds' inaccuracies and revamping it to the Sonic Mania style. But from the 0.23.0 version we decided to rewrite everything from scratch to make use of the contemporary Fusion features. 
+Core began development in mid-2019 as a Sonic Worlds fork, with the aim of correcting Sonic Worlds' inaccuracies and revamping it to match the Sonic Mania style. However, starting with version 0.23.0, we made the decision to rewrite everything from scratch to make use of the modern Clickteam Fusion features. 
 
-We rewrote the same methods as Sonic Worlds in some situations, but with a ton of changes like the improvements to the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing and physics. 
+We kept some of the same methods from Sonic Worlds where it made sense, but basically overhauled everything. We improved the collision system, sensors, angle detection, visual angle calculation, landing, ceiling landing, and physics.
 
-We rewrote a ton of gimmicks and features from Delta into a *brand new code*, just like every action, rings, monitors, spikes, platforms, bridges, etc. Some things that naturally worked great were adapted from Sonic Worlds Delta, like water tunnels, screw, corkscrew with slight edits, but everything else was written by us. 
-
-We can say that versions before 0.23.0 were modifications of Worlds, while versions after that are a full rewrite.
+We also rebuilt a ton of gimmicks and features from Delta with a brand new code, like actions, rings, monitors, spikes, platforms, bridges, and so on. A few things that were working well, like water tunnels, screw, and corkscrews, got adapted from Sonic Worlds Delta with a few tweaks. But pretty much everything else is all-new, written by us.
 
 # Terms of Use
 
