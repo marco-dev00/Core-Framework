@@ -39,8 +39,6 @@ We kept some of the same methods from Sonic Worlds where it made sense, but basi
 
 We also rebuilt a ton of gimmicks and features from Delta with a brand new code, like actions, rings, monitors, spikes, platforms, bridges, and so on. A few things that were working well, like water tunnels, screw, and corkscrews, got adapted from Sonic Worlds Delta with a few tweaks. But pretty much everything else is all-new, written by us.
 
-;)
-
 # Terms of Use
 
 - Credit to everyone who developed this framework. It doesn't matter if you want to credit at the beginning or at the end, just credit us somehow.
