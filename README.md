@@ -2,7 +2,7 @@
 
 # Current Status
 
-Working in a new stable version.
+Working in a new stable version. While the update is being made, the *.mfa is encrypted. Afterwards, I will unlock it.
 
 # Credits
 
