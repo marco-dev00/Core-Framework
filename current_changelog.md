@@ -1,6 +1,12 @@
 For more information, read here: https://github.com/nihil92/Core-Framework/blob/main/DOCUMENTATION.md
 
+- New Feature: Room hierarchy system for better organization and management.
+- New Feature: Doppelganger detection and removal implemented to ensure unique instances of specified objects. Simply use the Group.Interface for easy configuration and control.
+- New Feature: Integrated an advanced audio system.
+
 **0.28.0 - In Progress**
+
+
 - Blue Spheres' Special Stage, taken from Discovery Framework.
 - Fixed bugs with the FlipAngle object that weren't working.
 - An exciting array of new badniks has been introduced, including Mosqui, Catterkiller Jr., Dragonfly, Poh Bee, Sweep, Bombbearer, Jaws, Clucker and Mantis.
